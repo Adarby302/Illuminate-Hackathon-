@@ -1,0 +1,16 @@
+ul.quiz {
+    list-style: square;
+}
+
+ul.choices{
+    list-style: none;
+    text-align: left;
+}
+.font-italic{
+    font-style: italic !important;
+}
+.spacer::before {
+    content: "";
+    display: block;
+    height: 10px;
+  }
